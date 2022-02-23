@@ -27,4 +27,4 @@ To stop: CRTL+C.
 
 ## Heroku app
 
-- https://winequalityimbalancedlearning.herokuapp.com/ | https://git.heroku.com/winequalityimbalancedlearning.git
+Access the web app : https://winequalityimbalancedlearnign.herokuapp.com

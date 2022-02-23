@@ -1,4 +1,8 @@
 # WineQuality-ImbalancedLearning
+
+Access the web app : https://winequalityimbalancedlearnign.herokuapp.com
+
+
 Prediction of wine quality based on physical/chemical features, with Imbalanced Learning techniques.
 
 The frequencies of each quality class are shown in the figure below:
@@ -23,8 +27,3 @@ A webpage will be open in a localhost, with the web app.
 ## Stop
 
 To stop: CRTL+C.
-
-
-## Heroku app
-
-Access the web app : https://winequalityimbalancedlearnign.herokuapp.com

@@ -23,3 +23,8 @@ A webpage will be open in a localhost, with the web app.
 ## Stop
 
 To stop: CRTL+C.
+
+
+## Heroku app
+
+- https://winequalityimbalancedlearning.herokuapp.com/ | https://git.heroku.com/winequalityimbalancedlearning.git

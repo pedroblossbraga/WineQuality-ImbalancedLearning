@@ -9,3 +9,17 @@ As we can see, the lowest and highest classes have very small frequencies, compa
 - oversampling (SVMSMOTE)
 - weighted class in Random Forest
 
+
+## Run
+
+To run the model, execute in the terminal of the root directory:
+
+            $  streamlit run app.py
+
+A webpage will be open in a localhost, with the web app.
+
+![](images/webpage_sample.png)
+
+## Stop
+
+To stop: CRTL+C.

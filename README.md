@@ -13,7 +13,6 @@ As we can see, the lowest and highest classes have very small frequencies, compa
 - oversampling (SVMSMOTE)
 - weighted class in Random Forest
 
-
 ## Run
 
 To run the model, execute in the terminal of the root directory:

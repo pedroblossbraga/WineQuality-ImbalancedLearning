@@ -127,4 +127,7 @@ def show_explore_features_page():
         st.pyplot(col_fig)
 
 
-
+def show_project_page():
+  st.write("""### Wine Quality - Imbalanced Learning Project""")
+  st.write('Author: Pedro Blöss Braga')
+  st.write('Github repository: https://github.com/pedroblossbraga/WineQuality-ImbalancedLearning/tree/main')

@@ -1,6 +1,6 @@
 # WineQuality-ImbalancedLearning
 
-Access the web app : https://winequalityimbalancedlearnign.herokuapp.com
+Access the web app : https://winequalityimbalancedlearnign.herokuapp.com (Currently down)
 
 
 Prediction of wine quality based on physical/chemical features, with Imbalanced Learning techniques.
